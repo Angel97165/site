@@ -1,5 +1,11 @@
 {
     "user": [
-        
+        {
+        "id": 1,
+        "name": "Andriy",
+        "surname": "Zakruzhnuy",
+        "photo_url": "https://img.freepik.com/free-photo/close-up-on-adorable-kitten-walking-outdoors_23-2150782475.jpg",
+        "balance": 999999999999
+        }
     ]
 }
