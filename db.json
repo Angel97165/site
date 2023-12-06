@@ -1,5 +1,17 @@
 {
     "user": [
-        
+        {
+            "id": 3,
+            "name": "Angel",
+            "surname": "&",
+            "photo_url": "https://i.pinimg.com/originals/85/7b/4e/857b4e8cce8accb357e4afc37361e90c.jpg",
+            "balance": 123123
+        }
+    ],
+
+    "products":[
+        {
+            "price": 1500
+        }
     ]
 }
