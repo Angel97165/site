@@ -1,5 +1,11 @@
 {
     "user": [
-        
+        {
+            "id": 2,
+            "name": "Leo",
+            "surname":"?",
+            "photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffishki.net%2F1508046-samye-smeshnye-foto-zhivotnyh.html&psig=AOvVaw0cckkjp_cJ99escYN-UyGD&ust=1701963046295000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjJnMmQ-4IDFQAAAAAdAAAAABAJ",
+            "balance": 9999
+        }
     ]
 }
