@@ -1,5 +1,12 @@
 {
     "user": [
-        
+        {
+            "id":1,
+            "name":"Danya",
+            "surname":"Demchenko",
+            "photo":"img",
+            "balance": 10000000
+            
+        }
     ]
 }
