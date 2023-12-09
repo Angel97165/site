@@ -1,0 +1,29 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    background-color: rgb(54, 10, 79);
+    color: antiquewhite;
+}
+
+div{
+    margin-top: 5rem;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+}
+
+
+
+.h{
+    margin-top: -19px;
+}
+
+a{
+    color: antiquewhite;
+}
+
+a:hover{
+    color: rgb(229, 79, 10);
+}
